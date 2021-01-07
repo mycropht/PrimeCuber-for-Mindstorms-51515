@@ -3,7 +3,7 @@ A PrimeCuber variant for LEGO Mindstorms 51515
 
 The code is work by David Gilday (mindcuber.com). This is just a Mindstorm port.
 
-The LEGO design is done by my son Marin using the Primecuber instructions and only the Mindstorms 51515 parts.
+The LEGO design is done by my son Marin (10) using the Primecuber instructions and only the Mindstorms 51515 parts.
 
 The solver can be seen in action at https://youtu.be/e2EDLIPwlSM 
 
