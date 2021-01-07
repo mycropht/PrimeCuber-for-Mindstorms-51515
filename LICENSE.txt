@@ -1,2 +1,2 @@
 
-This is basically a simple modification of PrimeCuber by David Gilday (mindcuber.com). All rights belongs to him.
+This is basically a simple modification of PrimeCuber by David Gilday (mindcuber.com). All rights belong to him.
