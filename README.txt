@@ -5,6 +5,12 @@ The code is a work by David Gilday (mindcuber.com). This is just a Mindstorms 51
 
 The build adaptation is done by my son Marin using the Primecuber instructions and only the Mindstorms 51515 parts.
 
+Orione (http://www.orione-alnitak.eu/responsive) liked the design so much that he (she? they?) made the instructions:
+
+https://drive.google.com/file/d/1bPBpQtQXGo1PtdjhdGkOFznhE9t5BwvA/view
+
+Thanks Orione!
+
 The solver can be seen in action at https://youtu.be/e2EDLIPwlSM 
 
 NOTE:
